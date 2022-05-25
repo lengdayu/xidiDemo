@@ -1,0 +1,186 @@
+{
+    "饮食厨房": [
+        {
+            "classfiyName": "锅具",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.b898da88e7cd463f50914c5d8b2828358bbb67b48ac1bf540b9ea2f179c2bb0b.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "餐具",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.b898da88e7cd463f0e5481da65cb0b050b36abb2c5dc4a5e3500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "刀铲砧板",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.8c0602c6ef7be9d74f806593d320d6aa0a9b93739a306e2b3500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "酒具用品",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.dbd81d50ce0d85ec9374074091e20061e7d62ebff62ed1c1358afc5948f29150.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "水杯水壶",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.e42fe8a6caa54b21d31f833371797dc2b79b91053f3a11eb3500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "厨用工具",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.b898da88e7cd463f8dc5897cdc9a082e6b6aeae204dca0193500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "咖啡具茶具",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.e42fe8a6caa54b215ede86b1f4527ea7bf27b3c55bb7658d3500842dd515aa3d.png/800x800/66"
+        },
+        {
+            "classfiyName": "烘烤用品",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.ded4b533a6b01276e62b48d08044f928d6e4bd1ccd9101453500842dd515aa3d.jpeg/1000x1000/66"
+        },
+        {
+            "classfiyName": "进口食品",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.53a7cbfbf394f430b8cd5f5f41f197e947dce5e2df6a6bff3500842dd515aa3d.jpeg/1500x1500/66"
+        }
+    ],
+    "母婴用品": [
+        {
+            "classfiyName": "喂养用品",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.b4659ef42dbb69b83052aed4ee3a36a8b6fafc9756708db63500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "宝宝寝居",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.4831b40e5ad1745c53fcd790fd252655a425edb8f25382ad3500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "孕妈用品",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.4c8eaf353dfad26248eed947a6110aca11e2447911e30db83500842dd515aa3d.jpeg/800x800/66"
+        },
+        {
+            "classfiyName": "婴幼服饰",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.b4659ef42dbb69b8afa92eb25cb498e40d2acdc3fc15245a3500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "专业洗护",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.e4e2c96c12d45183069bb4ab7b0ba260655cc76ca44fb4af3500842dd515aa3d.jpeg/800x800/66"
+        },
+        {
+            "classfiyName": "儿童玩具",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.e4e2c96c12d451830a01b56de13a514b139624d7affcbb233500842dd515aa3d.jpeg/1500x1500/66"
+        }
+    ],
+    "鞋包配饰": [
+        {
+            "classfiyName": "潮流女包",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.d2a2bc9d0bd39cc7c55e43ed6d113780cf102f50ef84d7093500842dd515aa3d.jpeg/800x800/66"
+        },
+        {
+            "classfiyName": "精品男包",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.a2af7bd535babbcbd27eb853ba7eba7587aff5d8825552ff3500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "功能箱包",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.b2fee0a3a14c555d13cc0defd02bf1b5681f77de7d1c34ed3500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "进口女鞋",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.8f8a0291f8e1729a63dd6dec646fe0eb94a9e82296eb3bd43500842dd515aa3d.jpeg/1000x1000/66"
+        },
+        {
+            "classfiyName": "精品男鞋",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.b06caf8401559833b0a4649119ca1864d45089ab967a4a96358afc5948f29150.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "服饰配件",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.051d15f8921763617c64afa4887e1bb898449cfa840e152b358afc5948f29150.jpeg/800x800/66"
+        },
+        {
+            "classfiyName": "时尚饰品",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.f9fcdbfe855916b852fd7087e6ef249d8e0ff5b46b91a4613500842dd515aa3d.jpeg/800x800/66"
+        },
+        {
+            "classfiyName": "眼镜腕表",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.6ad912e4e44d2a02672958adfab2467ecee77b2b1602c1903500842dd515aa3d.png/1200x1200/66"
+        }
+    ],
+    "卫浴个护": [
+        {
+            "classfiyName": "美容工具",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.da56cd3b6628d344dd14c4cbce3cf4c0c75b4435ff4eb3413500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "面部护理",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.5a081c4c1d0bbdcd8570c178350a5166a439537b0504a8f73500842dd515aa3d.jpeg/800x800/66"
+        },
+        {
+            "classfiyName": "口腔护理",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.a8eef4c6ef3cd6c99fa6cf856aad5be0bd0b5a7cf0e440523500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "身体护理",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.810844bb3d132a184c2b4c7259e1e98add57357b4bb97f093500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "美发护发",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.fd1c93030b5ed94e1dae22a828450168d9e609bb4e8fe6ac3500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "沐浴用品",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.ded4b533a6b01276335e6018a039b0e5ee76944d64652fdc3500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "洗护收纳",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.14d337e91f577d1fc39bd36c6a397b1f7cd100fd67be544d3500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "家庭护理",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.e4e2c96c12d451831efeebf16e0d973b83a0478752790b303500842dd515aa3d.jpeg/1500x1500/66"
+        }
+    ],
+    "家居生活": [
+        {
+            "classfiyName": "家居装饰",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.e72be242527be08fea49bb0d6110369a3f1a6e70cb5d5e173500842dd515aa3d.jpeg/800x800/66"
+        },
+        {
+            "classfiyName": "布艺家纺",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.aed58972b9fcac843ee3b8cfec21ec68f4871b10795804053500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "收纳整理",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.aed58972b9fcac841a78e56b6e0c6a9148ae3fc41073c74d0b9ea2f179c2bb0b.jpeg/800x800/66"
+        },
+        {
+            "classfiyName": "清洁用品",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.f27fd4ca713a24ecc776de0a6927884adef308d42c6238f6358afc5948f29150.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "家用电器",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.7558c17aa6a38cf4226492f942d98268c934c1d3ec63ed3c3500842dd515aa3d.jpeg/1500x1500/66"
+        },
+        {
+            "classfiyName": "卡券礼包",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.77f6c77da63db715c6f67833b26334a15e64e2579bb0cffb3500842dd515aa3d.jpeg/800x800/66"
+        }
+    ],
+    "办公通勤": [
+        {
+            "classfiyName": "文具",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.18bb4f5459583365f80051f35a63e19d29ecc8df7dd063d53500842dd515aa3d.jpeg/800x800/66"
+        },
+        {
+            "classfiyName": "办公收纳",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.4e4549b1b17e31034f76d3a26909d28ca3c2b35cfe1a4ef63500842dd515aa3d.jpeg/1134x1134/66"
+        },
+        {
+            "classfiyName": "数码配件",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.de831d95139414ec26c94ff98692573f9ca563f1def996183500842dd515aa3d.png/1600x1600/66"
+        },
+        {
+            "classfiyName": "商务通勤",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.b6ece8bb3446f2f8dfd462e1b3937944214e982157a861253500842dd515aa3d.jpeg/800x800/66"
+        },
+        {
+            "classfiyName": "笔记本",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.18bb4f5459583365486f57910b4d4c0eef7470619dad5f763500842dd515aa3d.jpeg/1000x1000/66"
+        },
+        {
+            "classfiyName": "户外旅行",
+            "imgUrl": "https://image.xidibuy.com/shop/shop.1aa82f9e75094302bec6e9f884bb4a878cc4eb036e073dbc3500842dd515aa3d.jpeg/800x800/66"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+[
+    {
+        "topImgUrl": "https://image.xidibuy.com/folder/folder.8e383668cc0d04cf0df99889ce1691c798264282f6fe2f08bf5aa4c4361a27fb.jpeg/394x329",
+        "item": [
+            {
+                "0": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.4e4549b1b17e3103e5a567c466e8587573866634302cb332358afc5948f29150.jpeg/800x800/316"
+                }
+            },
+            {
+                "1": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.4e4549b1b17e3103fadf956cded5238d81a6d555470e3b623500842dd515aa3d.jpeg/800x800/316"
+                }
+            },
+            {
+                "2": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.4e4549b1b17e3103fadf956cded5238d79d894ad45d5db533500842dd515aa3d.jpeg/800x800/316"
+                }
+            },
+            {
+                "3": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.9522656a0fbb51b0d95726c6ebbcae280dea76b70cbcb76b3500842dd515aa3d.jpeg/800x800/316"
+                }
+            }
+        ]
+    },
+    {
+        "topImgUrl": "https://image.xidibuy.com/folder/folder.8e383668cc0d04cfc6c5bb1a5c6077368ca5a32305ec77febf5aa4c4361a27fb.jpeg/394x329",
+        "item": [
+            {
+                "0": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.686c3638d64fcb97f06fea9bd7a572a9a82aebaeb8944f52358afc5948f29150.jpeg/1500x1500/316"
+                }
+            },
+            {
+                "1": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.1d7392670ceb61d101374000d5076e589811a00ada708df93500842dd515aa3d.jpeg/1200x1200/316"
+                }
+            },
+            {
+                "2": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.1d7392670ceb61d1dd8e112a9bfb5b06d5e9c07bad6fd7043500842dd515aa3d.jpeg/1500x1500/316"
+                }
+            },
+            {
+                "3": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.1d7392670ceb61d157d131fa56eeeb504088f39b308c19b63500842dd515aa3d.jpeg/1500x1500/316"
+                }
+            }
+        ]
+    },
+    {
+        "topImgUrl": "https://image.xidibuy.com/folder/folder.8e383668cc0d04cfb618d14f8d3b0c72a70456ce8e7f0047bf5aa4c4361a27fb.jpeg/394x329",
+        "item": [
+            {
+                "0": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.8eb5466dc488c46f6f836a6669a630543b2cbab569f2a7533500842dd515aa3d.png/800x800/316"
+                }
+            },
+            {
+                "1": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.8eb5466dc488c46f7760d6243feb164504abd1aa7243c5dd3500842dd515aa3d.jpeg/800x800/316"
+                }
+            },
+            {
+                "2": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.8eb5466dc488c46f6ef898282ed8a50a28b330281401665f3500842dd515aa3d.jpeg/1500x1500/316"
+                }
+            },
+            {
+                "3": {
+                    "imgUrl": "https://image.xidibuy.com/shop/shop.8eb5466dc488c46f7c29f87ba174f734e15e9d6a4003e6ac3500842dd515aa3d.jpeg/800x800/316"
+                }
+            }
+        ]
+    }
+]

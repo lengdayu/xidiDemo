@@ -1,0 +1,331 @@
+[
+    {
+        "title": "16国特品",
+        "desc": "精选全球16国特色好物",
+        "bannerBig": "https://image.xidibuy.com/linz/linz.1fc38e441024b2db43be2f34b42fb01e963cc864b79422f6bf5aa4c4361a27fb.jpeg/1210x280",
+        "children": {
+            "0": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.e4e2c96c12d45183186630d720df06d5750edeaa93debdf53500842dd515aa3d.jpeg/800x800/316",
+                "title": "时尚镀金图案，提升餐具档次",
+                "desc": "德国原产GGS不锈钢餐具套装Bianca镀金刀叉勺立体折页"
+            },
+            "1": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.ff1595b16f7641392d9b44af643172e64ddcb602773161a83500842dd515aa3d.jpeg/1405x1405/316",
+                "title": "家居选择，清新空气",
+                "desc": "英国原产Illumens绅士小屋罐装香薰蜡烛室内香薰家居香薰"
+            },
+            "2": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.bbcf4a7ee9ce44144f870a355e849557cc623680fde0c5623500842dd515aa3d.jpeg/800x800/316",
+                "title": "用摄影的方式，留住美好瞬间",
+                "desc": "瑞典原产Details by M.摄影装饰画植物挂画--Springtime"
+            },
+            "3": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.1db17832d7b7d99ba387c10870432aebec48d87d96e68bd13500842dd515aa3d.jpeg/800x800/316",
+                "title": "带孩子走进童话世界",
+                "desc": "法国原产Tradi linge儿童全棉床品三件套"
+            },
+            "4": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.efa1cb1635ccf6eaeaa8730f57cc9182686ec04588ae3e143500842dd515aa3d.jpeg/800x800/316",
+                "title": "向生活借一点宁静时刻",
+                "desc": "意大利原产SABRINA FOSSI DESIGN陶瓷波纹装饰挂钟钟表"
+            },
+            "5": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.4e4549b1b17e310342a3617d0588912f7d22dd4d67e062053500842dd515aa3d.jpeg/800x800/316",
+                "title": "专业工匠手工精心制作",
+                "desc": "芬兰原产HUKKA滑石摆件装饰烛台 VÄLKKY"
+            },
+            "6": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.f9fcdbfe855916b8a6a61bf2159303ec2c94bb9ac477abb53500842dd515aa3d.png/800x800/316",
+                "title": "古老手工技艺，匠心打造",
+                "desc": "日本原产T.NISHIKAWA Kayori京烧清水烧彩绘陶瓷茶壶白菊"
+            },
+            "7": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.efa1cb1635ccf6ea2e424bbfc15d52a1576a52aadb98716a3500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "给生活来点艺术气息和童趣",
+                "desc": "德国原产Christian Ulbricht木质手工摆件士兵胡桃夹子"
+            }
+        }
+    },
+    {
+        "title": "餐厨",
+        "desc": "一蔬一饭即生活",
+        "bannerBig": "https://image.xidibuy.com/linz/linz.1fc38e441024b2dbd6d2b865effb0200a20e0cacb6e8c219bf5aa4c4361a27fb.jpeg/1210x280",
+        "children": {
+            "0": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.17ae051b7b90759038c01213e2d202de99078b0491a9de0d3500842dd515aa3d.png/800x800/316",
+                "title": "让喝茶体会到浪漫幸福的樱花",
+                "desc": "日本原产ceramic 蓝美浓烧茶壶茶杯一壶两杯套装樱灿灿"
+            },
+            "1": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.f8863e68d8b6f701479cd78a52390d3b53cbed97112a32fa3500842dd515aa3d.jpeg/800x800/316",
+                "title": "散发优雅喝水魅力",
+                "desc": "英国DUNOON丹侬骨瓷水杯Lomond杯型花园系列"
+            },
+            "2": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.17ae051b7b9075906373a7f676d20460d2a7b16978a3f27b3500842dd515aa3d.png/800x800/316",
+                "title": "钼钒钢刀身，锋利可爱",
+                "desc": "山岱 Miyuki猫咪三德刀菜刀140mm"
+            },
+            "3": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.7d2b5115bb336ff8a446ec0a71f1908be07bef962b99fb0b3500842dd515aa3d.jpeg/800x800/316",
+                "title": "精美树纹，餐厨艺术",
+                "desc": "泰国LC LIVING相思木带提手长方形砧板菜板案板大号"
+            },
+            "4": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.2c6d68234730d4211ed9469d6dd295942ef348da4896d97525a22e22e1187f79.jpeg/800x800/316",
+                "title": "一锅撑起你的美好生活",
+                "desc": "几致专利北欧珐琅铸铁锅家用炖锅炖煲汤焖炖锅多功能锅"
+            },
+            "5": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.a589a37e4e18426d4ccf7eba178fb68132b6c8bf0d37d10b3500842dd515aa3d.jpeg/800x800/316",
+                "title": "一次性也可以代表高质量",
+                "desc": "韩国原产Myungjin厨用一次性手套塑料手套薄膜手套"
+            },
+            "6": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.d2a2bc9d0bd39cc7112b61d81dbc18ec17939598f496cf6b3500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "漂亮的糖勺，用完舍不得放下",
+                "desc": "德国原产Franz Furst 304奥氏体不锈钢咖啡糖勺Chippendale"
+            },
+            "7": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.f9fcdbfe855916b861a5ef5c0c66c9e0728a1ca354de0ea23500842dd515aa3d.jpeg/800x800/316",
+                "title": "朋友结婚送礼就是它了",
+                "desc": "日本原产wakacho若兆传统漆器栗木碗夫妻碗筷套装结婚礼物"
+            }
+        }
+    },
+    {
+        "title": "洗护",
+        "desc": "贴身呵护，从自然健康开始",
+        "bannerBig": "https://image.xidibuy.com/linz/linz.1fc38e441024b2db51573c713561e65548498e11cf603bc0bf5aa4c4361a27fb.jpeg/1210x280",
+        "children": {
+            "0": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.f3193046cb5ad6c5ea624bd8f375058d27da223d2b1775f33500842dd515aa3d.jpeg/800x800/316",
+                "title": "创新设计，理顺打结头发",
+                "desc": "西班牙原产Dessata沙龙美发梳梳子Original Prints系列"
+            },
+            "1": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.61636a59fa313b058465c088da1d75b2730138d311f184493500842dd515aa3d.jpeg/800x800/316",
+                "title": "一喷一抹，随时随地去污渍",
+                "desc": "韩国原产PURERUN儿童环保去污剂便携式除污剂去渍剂单支装"
+            },
+            "2": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.98054e13ea3fba8db20815f3b2858be2a4ded0a17bf8f576358afc5948f29150.jpeg/1500x1500/316",
+                "title": "夹口设计，保护衣物",
+                "desc": "德国原产 MAWA品牌特色挂衣架晾衣架晒衣架 1个装"
+            },
+            "3": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.3d6a39db9cb5cdc3b9f18a00d473d7675bf139f0601f94ff3500842dd515aa3d.png/800x800/316",
+                "title": "手美人，敷出来",
+                "desc": "韩国kocostar可可星保湿滋润手膜"
+            },
+            "4": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.18bb4f54595833657e1a21ab8f4be20cbcc3dde3f7345a940b9ea2f179c2bb0b.jpeg/1500x1500/316",
+                "title": "体面穿着，从滚毛器开始",
+                "desc": "日本原产IMOTANI滚毛毡毛发去除器滚毛器"
+            },
+            "5": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.2a2718fbed4b10e224fd1ac074a164be9d29eb024623f31d3500842dd515aa3d.jpeg/800x800/316",
+                "title": "食品级材质，不易脱丝",
+                "desc": "英国原产HBC弯曲手柄床刷清洁除尘刷子"
+            },
+            "6": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.18bb4f54595833654225c7816e3889e4f3443aadcc499852358afc5948f29150.png/800x800/316",
+                "title": "光滑细腻，不会损伤皮肤",
+                "desc": "日本原产Imotani背颈部按摩棒"
+            },
+            "7": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.fd1c93030b5ed94efa7468d95e3cc7aaa6bbaecd8b2e8f1b3500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "论一只垃圾桶的时尚",
+                "desc": "德国原产HAN经典简约垃圾桶垃圾篓纸篓"
+            }
+        }
+    },
+    {
+        "title": "母婴",
+        "desc": "用心挑选世界好物",
+        "bannerBig": "https://image.xidibuy.com/linz/linz.1fc38e441024b2dbeda561055ad47eef813a9c4e3d626cdfbf5aa4c4361a27fb.jpeg/1210x280",
+        "children": {
+            "0": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.e4e2c96c12d45183b20815f3b2858be2c5d1e532ea60e6533500842dd515aa3d.jpeg/800x800/316",
+                "title": "可折叠省空间，快速收纳",
+                "desc": "韩国原产Mathos Loreley浴盆澡盆便携感温可折叠浴盆"
+            },
+            "1": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.ee365721b214421ea690c6d28b8b3af8995a2e68bf77cb403500842dd515aa3d.jpeg/800x800/316",
+                "title": "清凉飘逸的雪纺连衣裙",
+                "desc": "韩国原产Roanjane雪纺连衣裙裙子长裙"
+            },
+            "2": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.65d9b418fb8673048dd79825485ad5c1e96ebd18d92a94633500842dd515aa3d.jpeg/800x800/316",
+                "title": "设计新颖，储存婴童食物佳品",
+                "desc": "英国原产Fill n squeeze便携式婴儿辅食袋10件装"
+            },
+            "3": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.65d9b418fb867304f71706b5b35d1576a41ba90c81bf3d4b3500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "设计新颖，吸引婴幼儿饮食",
+                "desc": "英国原产Fill n squeeze便携式婴儿辅食器喂养勺"
+            },
+            "4": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.9fecae14bb93ce09735531202244f31331e778ce0e3af7503500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "帮助宝宝睡出漂亮头型",
+                "desc": "美国原产Babymoon纯棉枕头防扁头豆荚枕婴儿枕波点"
+            },
+            "5": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.a2af7bd535babbcb7dc0988da5018825431d1105ff43653c3500842dd515aa3d.jpeg/800x800/316",
+                "title": "仿真乳型设计，贴合宝宝口腔",
+                "desc": "英国原产snuglo 硅胶安抚奶嘴宝宝奶嘴 0-3岁"
+            },
+            "6": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.24d45e0475a6907412869dcabbf36aa7f031407c50c634233500842dd515aa3d.jpeg/1000x1000/316",
+                "title": "帮助孩子们在餐桌上愉快地学习",
+                "desc": "英国原产Little Wigwam图形颜色儿童学习型餐垫 小孩餐垫"
+            },
+            "7": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.e72be242527be08f2827319e7bb83cf0fda2ede2d85671e33500842dd515aa3d.jpeg/1000x1000/316",
+                "title": "让宝宝发挥自己的创造力",
+                "desc": "德国原产nic儿童积木益智玩具藏宝盒"
+            }
+        }
+    },
+    {
+        "title": "家居",
+        "desc": "小细节，让家更暖心",
+        "bannerBig": "https://image.xidibuy.com/linz/linz.1fc38e441024b2dbf854400f5c03e073a86004e5dc9dd2d4bf5aa4c4361a27fb.jpeg/1210x280",
+        "children": {
+            "0": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.ae6d5aebf2043c90e8c0e70c839508643198fc0577585df7358afc5948f29150.jpeg/1500x1500/316",
+                "title": "《指环王》三部曲指定配饰",
+                "desc": "新西兰Stansborough指环王系列灰羊毛针织披肩盖毯"
+            },
+            "1": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.e7c5a4cb815e24ae2126e3a59d28e063a219b5ae8573b2d23500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "面料舒适，质地柔软",
+                "desc": "法国原产BLANC DES VOSGES精梳棉密织四件套(礼盒装)"
+            },
+            "2": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.ee365721b214421ecbe68ed0dac75d5c3485752ca43bc1183500842dd515aa3d.jpeg/800x800/316",
+                "title": "轻盈透气，优雅时尚",
+                "desc": "韩国原产JO'S LOUNGE纯棉家居服休闲睡衣睡裙胡萝卜白兔"
+            },
+            "3": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.31092fe28e5aefc343bff874978283f743a6b8d85a02bb663500842dd515aa3d.jpeg/800x800/316",
+                "title": "光泽柔和，家居舒适温馨",
+                "desc": "芬兰原产VALLILA地毯KIHLAJAISET 系列地毯地垫140x200cm"
+            },
+            "4": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.e4e2c96c12d45183b20815f3b2858be24614c95451b368173500842dd515aa3d.jpeg/800x800/316",
+                "title": "不会倒的花瓶，动与静的结合",
+                "desc": "韩国原产BMIX创意家居不倒翁花瓶艺术摆件工艺品"
+            },
+            "5": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.ae6d5aebf2043c903325db43324da8e3b42b1965c7800c553500842dd515aa3d.jpeg/316",
+                "title": "轻盈柔软，透气保暖",
+                "desc": "新西兰原产Novadown羊驼被保暖被子冬被被芯400gsm"
+            },
+            "6": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.5d97e73f144d250dc69e50a32cc26e5c327112742d8b5bb23500842dd515aa3d.jpeg/800x800/316",
+                "title": "让世界，摆在你的眼前",
+                "desc": "韩国原产ZEMIRO手工DIY自组地球仪桌面摆件工艺品 多彩世界"
+            },
+            "7": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.11e90879427effdb9e4d10810b20ff2a5c3a1b07a15751013500842dd515aa3d.jpeg/800x800/316",
+                "title": "128个按摩粒，充分模仿指穴按摩",
+                "desc": "泰国原产taipatex乳胶枕按摩护颈枕头枕芯"
+            }
+        }
+    },
+    {
+        "title": "配饰",
+        "desc": "好的配件也会是大的焦点",
+        "bannerBig": "https://image.xidibuy.com/linz/linz.1fc38e441024b2dbd2033a3fca170342f4da10aa9915bdb0bf5aa4c4361a27fb.jpeg/1210x280",
+        "children": {
+            "0": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.31092fe28e5aefc3924fb38e2339a96127baebaf02c4c3d63500842dd515aa3d.jpeg/800x800/316",
+                "title": "手工琉璃，低调华贵",
+                "desc": "意大利ZECCHIN穆拉诺玻璃幸福系列饰品首饰手链耳坠耳环"
+            },
+            "1": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.d2a2bc9d0bd39cc7bb5e47b6bd525f99f28e585fe454b2b43500842dd515aa3d.jpeg/316",
+                "title": "时尚华丽，成就不平凡的你",
+                "desc": "意大利原产andrea cardone 牛皮挎包"
+            },
+            "2": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.d2a2bc9d0bd39cc7ff525edbb956ea9e5e1280e410fa4c1c3500842dd515aa3d.jpeg/800x800/316",
+                "title": "腕间上的运动及优雅",
+                "desc": "瑞士原产CHARMEX 运动系列手表男表潜水表简约时尚商务休闲"
+            },
+            "3": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.a2af7bd535babbcbd9dacb9f21007dee3a8b8acce0a695ae3500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "手感顺滑，简约时尚",
+                "desc": "韩国原产POANE简约牛皮钱包信封钱夹商务手包"
+            },
+            "4": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.b2fee0a3a14c555d55ba419e18a6f5954b94d7ee511e0ce43500842dd515aa3d.jpeg/1000x1000/316",
+                "title": "外出游行，怎能少一只养眼的双肩包",
+                "desc": "韩国原产1537时尚个性休闲旅游双肩包背包书包"
+            },
+            "5": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.d74214a64abc195b3ffa7ac74ab11e2013c4bc2388ad254a358afc5948f29150.jpeg/800x800/316",
+                "title": "蕾丝配黑珠，甜美中带丝野性",
+                "desc": "韩国原产MORAN YI_F时尚黑珠蕾丝手链手环"
+            },
+            "6": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.12016419a61fc9e7e337d4119c2262842649d5b550ecad783500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "系出腰间的潮流与时尚",
+                "desc": "法国原产LES ATELIERS FOURES牛皮皮带女士皮带腰带"
+            },
+            "7": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.9c52be25d99425744b2e92f813f693b924373a8d1f4d66ff3500842dd515aa3d.jpeg/2000x2000/316",
+                "title": "一双好鞋，看出你的生活品质",
+                "desc": "意大利原产germano bellesi翻毛皮男士皮鞋小牛皮鞋965"
+            }
+        }
+    },
+    {
+        "title": "办公",
+        "desc": "好文具，工作更高效",
+        "bannerBig": "https://image.xidibuy.com/linz/linz.1fc38e441024b2db73247915272670c101968a7c9c15aa56bf5aa4c4361a27fb.jpeg/1210x280",
+        "children": {
+            "0": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.24d45e0475a69074215794fd71019a246f5e09fc72b8b8e73500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "让孩子天马行空的想象",
+                "desc": "英国Rachel Ellen Designs海盗船系列儿童墙贴墙纸贴画"
+            },
+            "1": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.4f5802b265b9c04f3fb9cca0785f54e48697e64cc0e1477e3500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "透露着一份宁静的自然风情",
+                "desc": "芬兰原产PRIVATE CASE 简约笔袋文具盒铅笔盒"
+            },
+            "2": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.7afca799c93e8376379dc61f6de1c6d741b0f3b962b364213500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "创意书签，让读书含有韵味",
+                "desc": "韩国原产BooKiss创意复古书签金属书签文具礼品"
+            },
+            "3": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.2efd939b4443b7feab362b13eaa40dd94fb5fdc3e096bbb5358afc5948f29150.jpeg/1500x1500/316",
+                "title": "一款来自原始森林的记事本",
+                "desc": "澳大利亚原产O&V凸版印刷笔记本记事本日记本A6"
+            },
+            "4": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.744c2955043c32f57045ea38a43faa33f35ea466c6b2947c3500842dd515aa3d.jpeg/800x800/316",
+                "title": "笔具电脑一并收纳",
+                "desc": "韩国原产aplum多功能电脑收纳支架置物桌增高架"
+            },
+            "5": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.cf32fca616b397435f1ef6aaf2f8eeb56aefc155a1c1ba003500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "解放双手，悦享休闲时光",
+                "desc": "澳大利亚原产padpod多功能手机支架电子产品支架靠垫"
+            },
+            "6": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.5d97e73f144d250dd71adbe7227258594a068ec25f10a7123500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "吸汗不滑手，爱上书写的感觉",
+                "desc": "韩国原产ECO&I纸质彩色铅笔纸铅笔画笔10支套装zebra系列"
+            },
+            "7": {
+                "imgUrl": "https://image.xidibuy.com/shop/shop.fd1c93030b5ed94e5b761f663a477c1c8e824caab8b8bd353500842dd515aa3d.jpeg/1500x1500/316",
+                "title": "高颜值收纳小帮手",
+                "desc": "德国原产HAN环保创意多功能笔筒收纳盒整理盒"
+            }
+        }
+    }
+]
