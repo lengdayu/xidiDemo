@@ -1,0 +1,61 @@
+[
+    {
+        "baseUrl": "https://www.xidibuy.com/"
+    },
+    {
+        "country": "germany/",
+        "countryName": "德国"
+    },
+    {
+        "country": "japan/",
+        "countryName": "日本"
+    },
+    {
+        "country": "korea/",
+        "countryName": "韩国"
+    },
+    {
+        "country": "uk/",
+        "countryName": "英国"
+    },
+    {
+        "country": "italy/",
+        "countryName": "意大利"
+    },
+    {
+        "country": "france/",
+        "countryName": "法国"
+    },
+    {
+        "country": "spain/",
+        "countryName": "西班牙"
+    },
+    {
+        "country": "newzealand/",
+        "countryName": "新西兰"
+    },
+    {
+        "country": "usa/",
+        "countryName": "美国"
+    },
+    {
+        "country": "denmark/",
+        "countryName": "丹麦"
+    },
+    {
+        "country": "belgium/",
+        "countryName": "比利时"
+    },
+    {
+        "country": "finland/",
+        "countryName": "芬兰"
+    },
+    {
+        "country": "austria/",
+        "countryName": "奥地利"
+    },
+    {
+        "country": "australia/",
+        "countryName": "澳大利亚"
+    }
+]
